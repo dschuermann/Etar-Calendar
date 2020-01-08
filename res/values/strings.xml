@@ -510,16 +510,6 @@
          changing the response to an invitation. -->
     <string name="change_response_title">Change response</string>
 
-    <!-- This the title of a menu for General Preferences.
-         Pressing the menu item lets user to view and edit his general settings
-         (or preferences) [CHAR LIMIT=30] -->
-    <string name="menu_general_preferences">General settings</string>
-
-    <!-- This the title of a menu for "About Calendar" Preferences.
-         Pressing the menu item lets user to view the current settings
-         [CHAR LIMIT=30] -->
-    <string name="menu_about_preferences">About Etar</string>
-
     <!-- This is the title of the screen for setting user preferences. -->
     <string name="preferences_title">"Settings"</string>
     <!-- This is the title of a section in the Settings screen for settings
@@ -862,10 +852,10 @@
     <string name="preferences_list_calendar_summary_sync_off">Not synchronized</string>
     <string name="preferences_list_calendar_summary_invisible">Events are not displayed</string>
     <string name="preferences_list_general">General settings</string>
-    <string name="preferences_list_about">About Etar</string>
     <string name="preferences_list_add_remote">Add remote calendar (CalDAV)</string>
     <string name="preferences_list_add_offline">Add offline calendar</string>
     <string name="preferences_list_add_offline_title">Add offline calendar</string>
+    <string name="preferences_list_add_offline_error_empty">Enter a calendar name!</string>
     <string name="preferences_list_add_offline_message">Offline calendars are NOT synchronized to a cloud service and only available on your phone.</string>
     <string name="preferences_list_add_offline_button">Add calendar</string>
     <string name="preferences_list_add_offline_name">Name</string>
@@ -876,6 +866,7 @@
     <string name="preferences_calendar_delete_message">Do you really want to delete this calendar?</string>
     <string name="preferences_calendar_delete_delete">Delete calendar</string>
     <string name="preferences_calendar_delete_cancel">Cancel</string>
+    <string name="preferences_menu_about">About Etar</string>
 
     <string name="offline_account_name">Offline Calendar</string>
 
